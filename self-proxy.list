@@ -1,4 +1,9 @@
+#apple push
 DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,gateway.push.apple.com
+DOMAIN-SUFFIX,api.push.apple.com
+DOMAIN-SUFFIX,sandbox.push.apple.com
+#self
 DOMAIN-SUFFIX,payy.link
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,www.lilyemby.com
